@@ -1,3 +1,7 @@
+## Final Programming Assignment 2 submittal
+## See commit history for corrections made to original version
+
+
 ## Functions in this file (from assignment):
 ##  makeCacheMatrix(): This function creates a special "matrix" object that
 ##    can cache its inverse.
